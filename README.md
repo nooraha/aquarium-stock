@@ -1,7 +1,7 @@
 # aquarium-stock
 
-# Project Title
-Aquarium Stock Helper
+# Aquarium Stock Helper
+
 
 ## Summary
 My final project for the Building AI online course. The program calculates the amount of specific fish you could keep in an aquarium of your preferred size. It's based on a more in-depth version of the '1 centimeter of fish length per liter' rule that takes into account the actual size of the fish, not just its length. The program also considers the level of depth the species typically spends most of its time at: the top, middle or bottom.
